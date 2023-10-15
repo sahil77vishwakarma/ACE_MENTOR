@@ -9,9 +9,9 @@ AceMentor is a great app for those children who needs any help from their senior
 
 
 <p align="center">
-<img src="screen_1.png" alt="feed example" width = "400" >
-<img src="screen_2.png" alt="upload photo example"width = "400" >
-<img src="screen_3.png" alt="upload photo example"width = "400" >
+<img src="screen_1.png" alt="screen shot" width = "400" >
+<img src="screen_2.png" alt="screen shot"width = "400" >
+<img src="screen_3.png" alt="screen shot"width = "400" >
 </p>
 
 
